@@ -19,6 +19,11 @@ Additionally, the project successfully passed all Unit Tests, ensuring reliabili
 - jest
 - redux thunk
 
+## Demo
+
+You can view a live demo of this project [here](https://suzanailieva.github.io/Covid-Map)
+
+
 ## API
 
 - 1. COVID Data : https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/playground/apiendpoint_ef9e1955-666c-43ba-9b5c-4b463ae316dc
