@@ -17,7 +17,7 @@ const Header = () => {
         <div className='flex items-center max-md:hidden'>
             <p>
                 <span className='flex flex-col text-sm'>Those Vaccinated Today</span>
-                <span className='text-gray-400 text-sm'>(45,777)</span>
+                <span className='text-gray-400 text-sm'>{Math.floor(Math.random() * (60000 - 10000 + 1)) + 10000}</span>
             </p>
             <TbVaccine className='text-green-500 text-xl'/>
         </div>
